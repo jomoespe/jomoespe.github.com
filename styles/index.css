@@ -1,0 +1,7 @@
+ul {
+    list-style-type: none;
+}
+
+section#skills label {
+    display: block;
+}

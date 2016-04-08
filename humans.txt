@@ -1,4 +1,4 @@
-/* TEAM */
+/* The team */
     Chef: Jose
     Contact: jomoespe [at] gmail.com
     Twitter: @jomoespe
